@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bodoni SvtyTwo ITC TT';
+    src: url('BodoniSvtyTwoITCTTBook.woff2') format('woff2'),
+        url('BodoniSvtyTwoITCTTBook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
